@@ -1,0 +1,15 @@
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/bin/Debug/net8.0/Task2
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/bin/Debug/net8.0/Task2.dll
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.dll
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/dmitrii/Desktop/Seminar7_Homework/Task2/obj/Debug/net8.0/ref/Task2.dll
